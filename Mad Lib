@@ -1,0 +1,12 @@
+let ad1 = prompt("Enter an adjective:");
+let loc = prompt("Enter a location:");
+let noun1 = prompt("Enter a noun:");
+let word1 = prompt("Enter a word:");
+let clothing = prompt("Enter a type of clothing:");
+let ad2 = prompt("Enter an adjective:");
+let num = prompt("Enter a number:");
+let body = prompt("Enter a body part:");
+let word2 = prompt("Enter a word:");
+let noun2 = prompt("Enter a noun:");
+let word3 = prompt("Enter a word:");
+alert("Bullfighting is a/an " + ad1 + " sport that is played in " + loc + ". A bullfighter's equipment consists of a long, sharp " + noun1 + " called a " + word1 + " and a bright red " + clothing + ". They wave the " + clothing + ", which makes the bull very " + ad2 + ". The bullfighter has to perform " + num + " maneuvers to avoid the bull's " + body + ". If the bullfighter wins, the audience yell " + word2 + "! and throw their " + noun2 + " into the ring. If the bull wins, they yell " + word3 + " and ask for another bullfighter.");
